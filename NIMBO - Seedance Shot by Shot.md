@@ -16,7 +16,7 @@ Every shot is one self-contained generation with one subject action, one camera 
 - **One expression change per shot.** Expressions are big and simple: eyes wide, lip wobble, cheeks sinking, a small smile blooming.
 - **No text anywhere.** The shop signs and the painted circles contain no writing. The title and the credits are added in post.
 - **No fingers.** Every character has soft mitten-like stubby arms. There are no extreme close-ups on hands.
-- **Small casts per frame.** No more than three or four characters share a frame, except in the sky world, where distant clusters of clouds are background. Storm crowds are shown as dark silhouettes in rain, seen from behind or from above.
+- **Small casts per frame.** No more than three or four characters share a frame, except in the sky world and in street crowds, where distant clouds are small background figures. Storm crowds are shown as dark silhouettes in rain, seen from behind or from above.
 - **Simple mechanics.** The electronic legs are chunky with two or three visible parts: a glowing battery cell at the knee, a copper coil at the thigh and a looping cable. Close-ups show one part at a time.
 - **Gentle electricity.** Sparks and zaps are small, soft blue-white arcs. They are never fast lightning bolts, because fast complex motion can warp.
 - **Moderate speed in the storm.** Handheld shots use moderate shake and strong silhouettes.
@@ -116,7 +116,7 @@ The contrast is never explained. It lives in posture, movement, expression and w
 | The blank sky nobody looks at (Shot 1) | The sky revealed and alive (Shots 70 and 81) |
 | The scarf cloud swept away, her legs left on the stones, the scarf settling over them (Shots 3 to 6) | Nimbo's own legs fall the same way (Shot 62). The coda grave shows the same legs and scarf (Shot 82), the audience's wink that the belief is a hoax |
 | Nimbo's low knee light (Shot 8) | His legs die on the causeway (Shot 19) |
-| Nimbo is the only witness to the scarf cloud's death (Shots 5 and 7) | Luma is the only one near when he rises, and the street around the tower is empty (Shots 58 to 66) |
+| The scarf cloud is swept away in public, in front of a whole street of clouds holding on tight (Shots 4 to 7) | Nimbo's ascent is private: only Luma is near, and the street around the tower is empty (Shots 58 to 66) |
 | Luma's sparks: cowlick (Shot 43), lightning inside her (Shot 53) | The zap (Shot 76), and Nimbo can zap too, charged by the storm (Shots 67, 69 and 77) |
 | Luma's touch revives dead legs (Shot 26) | The playful zaps in the sky (Shots 76 to 79) |
 | The legless cloud with her empty cup (Shot 13) | Luma revives her legs (Shot 34), and she shelters in the storm (Shot 50) |
@@ -156,15 +156,15 @@ The contrast is never explained. It lives in posture, movement, expression and w
 
 **Shot 4: The siren** | 4s | Refs: @Image6, @Image11
 
-> High-angle wide shot of the chained street. A siren sounds. Two small cloud characters, each standing on a painted white circle beside a chain, grab the chain with both stubby arms and squeeze their eyes shut. The scarf cloud is stranded in the open street, several circles away from the nearest chain, spinning in place with wide eyes. Camera: fixed. Tense stillness.
+> High-angle wide shot of the chained street. A siren sounds. Along both walls, small cloud characters, each standing on a painted white circle beside a chain, grab the chain with both stubby arms and hold on tight. The scarf cloud is stranded in the open street, several circles away from the nearest chain, spinning in place with wide eyes. Camera: fixed. Tense stillness.
 
-*Edit:* Add a siren wail in post just before the shot. Nobody else sees what comes next, because their eyes are shut.
+*Edit:* Add a siren wail in post just before the shot. Everyone else in the street makes it to a chain and holds on. Only she is left exposed. Keep the background clouds small and distant.
 
 **Shot 5: The gust** | 4s | Refs: @Image11, @Image6
 
-> A violent gust hits the street. The leather straps on the scarf cloud's electronic legs snap, her legs drop away and clatter onto the wet cobblestones, and she lifts straight up with her eyes wide in terror, her mouth open and her stubby arms reaching down toward the chain she could not reach, rising out of the top of the frame. Camera: fixed wide shot at street level. Sudden, brutal.
+> A violent gust hits the street. The leather straps on the scarf cloud's electronic legs snap, her legs drop away and clatter onto the wet cobblestones, and she lifts straight up with her eyes wide in terror, her mouth open and her stubby arms reaching down toward the chain she could not reach, rising out of the top of the frame. Along the walls, every other cloud holds its chain tight, staring in horror. Camera: fixed wide shot at street level. Sudden, brutal.
 
-*Edit:* She believes it is death too. Her terror mirrors Nimbo's own tumble in Shot 67.
+*Edit:* A public event. Everyone holds on and everyone sees, and only she is taken. She believes it is death too. Her terror mirrors Nimbo's own tumble in Shot 67.
 
 **Shot 6: The scarf** | 3s, generate at 4s and trim | Refs: @Image10
 
@@ -172,11 +172,11 @@ The contrast is never explained. It lives in posture, movement, expression and w
 
 *Edit:* PLANT. This is all that is left. The same legs and scarf return in the coda, Shot 82.
 
-**Shot 7: The only witness** | 3s, generate at 4s and trim | Refs: @Image1, @Image6
+**Shot 7: The street watches** | 3s, generate at 4s and trim | Refs: @Image1, @Image6
 
-> Nimbo, a small round grey-white cloud character with big glossy dark eyes, rosy cheeks and electronic legs, stands very upright on a painted white circle gripping a chain with both stubby arms. His eyes, squeezed shut, slowly open and he stares ahead as his lower lip begins to tremble. The two clouds beside him still have their eyes shut. Camera: fixed medium close-up, eye level.
+> Nimbo, a small round grey-white cloud character with big glossy dark eyes, rosy cheeks and electronic legs, stands very upright on a painted white circle gripping a chain with both stubby arms. He stares ahead with wide eyes as his lower lip begins to tremble. Behind him, the other clouds along the street slowly lower their heads in silence. Camera: fixed medium close-up, eye level.
 
-*Edit:* Cut here from the scarf. Nimbo is the only one who saw. This is why he is the way he is.
+*Edit:* Cut here from the scarf. The whole street saw, and the silent bowed heads are the town's entire grief. Nimbo's fear is part of everyone's.
 
 **Shot 8: The knee light** | 3s, generate at 4s and trim | Refs: @Image1
 
