@@ -116,7 +116,6 @@ The contrast is never explained. It lives in posture, movement, expression and w
 | The blank sky nobody looks at (Shot 1) | The sky revealed and alive (Shots 70 and 81) |
 | The scarf cloud swept away, her legs left on the stones, the scarf settling over them (Shots 3 to 6) | Nimbo's own legs fall the same way (Shot 62). The coda grave shows the same legs and scarf (Shot 82), the audience's wink that the belief is a hoax |
 | Nimbo's low knee light (Shot 8) | His legs die on the causeway (Shot 19) |
-| The scarf cloud is swept away in public, in front of a whole street of clouds holding on tight (Shots 4 to 7) | Nimbo's ascent is private: only Luma is near, and the street around the tower is empty (Shots 58 to 66) |
 | Luma's sparks: cowlick (Shot 43), lightning inside her (Shot 53) | The zap (Shot 76), and Nimbo can zap too, charged by the storm (Shots 67, 69 and 77) |
 | Luma's touch revives dead legs (Shot 26) | The playful zaps in the sky (Shots 76 to 79) |
 | The legless cloud with her empty cup (Shot 13) | Luma revives her legs (Shot 34), and she shelters in the storm (Shot 50) |
