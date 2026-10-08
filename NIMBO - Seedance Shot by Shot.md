@@ -116,7 +116,7 @@ The contrast is never explained. It lives in posture, movement, expression and w
 | The blank sky nobody looks at (Shot 1) | The sky revealed and alive (Shots 70 and 81) |
 | The scarf cloud swept away, her legs left on the stones, the scarf settling over them (Shots 3 to 6) | Nimbo's own legs fall the same way (Shot 62). The coda grave shows the same legs and scarf (Shot 82), the audience's wink that the belief is a hoax |
 | Nimbo's low knee light (Shot 8) | His legs die on the causeway (Shot 19) |
-| Eyes shut at the siren, nobody watching (Shots 4 and 5) | Only Luma sees him rise (Shot 66) |
+| Nimbo is the only witness to the scarf cloud's death (Shots 5 and 7) | Luma is the only one near when he rises, and the street around the tower is empty (Shots 58 to 66) |
 | Luma's sparks: cowlick (Shot 43), lightning inside her (Shot 53) | The zap (Shot 76), and Nimbo can zap too, charged by the storm (Shots 67, 69 and 77) |
 | Luma's touch revives dead legs (Shot 26) | The playful zaps in the sky (Shots 76 to 79) |
 | The legless cloud with her empty cup (Shot 13) | Luma revives her legs (Shot 34), and she shelters in the storm (Shot 50) |
@@ -488,13 +488,13 @@ The contrast is never explained. It lives in posture, movement, expression and w
 
 **Shot 58: Nobody helps** | 5s | Refs: @Image6, @Image4
 
-> High-angle wide shot in heavy rain. Dark silhouettes of small cloud characters clutch their own chains with eyes shut. In the foreground the Vendor looks across the street at Nimbo and Luma, hesitates, his grip on his own chain unmoving, then turns his face away. Camera: fixed.
+> High-angle wide shot in heavy rain. Dark silhouettes of small cloud characters haul themselves along their chains with both stubby arms into bolted doorways, one by one, until the street around the signal tower is empty. In the foreground the Vendor looks across the street at Nimbo and Luma, hesitates, then turns his face away and slips into his own doorway. Camera: fixed.
 
 **Shot 59: All is lost** | 9s | Refs: @Image1, @Image3
 
 > Close-up on Luma, her face lit by lightning, her hand slipping from his. Nimbo's eyes fill with tears, he glances down at his dead legs, then back at her. Luma sees his tears, her smile softens, and she gently wipes a tear from his cheek with her free stubby arm. Camera: slow push-in, close two-shot.
 
-*Edit:* ALL IS LOST, for Nimbo. Luma never stops smiling, and she never ignores him. Nimbo carries all the fear.
+*Edit:* From Shot 58 on, nobody else is near the tower: Luma is the only one with him until he rises. ALL IS LOST, for Nimbo. Luma never stops smiling, and she never ignores him. Nimbo carries all the fear.
 
 ---
 
@@ -512,7 +512,7 @@ The contrast is never explained. It lives in posture, movement, expression and w
 
 > Extreme close-up on Nimbo's eyes with the storm reflected in them. His expression changes from terror to a quiet, resolute calm, the look of someone who has decided to give everything. Camera: fixed, very slow push-in.
 
-*Edit:* PLOT POINT 2. He believes this means death, and he does it only for Luma. A real sacrifice, not a wish coming true.
+*Edit:* PLOT POINT 2. The square is empty from here: only Nimbo and Luma. He believes this means death, and he does it only for Luma. A real sacrifice, not a wish coming true.
 
 **Shot 61: The buckles** | 6s | Refs: @Image1
 
@@ -556,7 +556,7 @@ The contrast is never explained. It lives in posture, movement, expression and w
 
 > Aerial view looking down from above Nimbo as he rises. The city shrinks beneath: rooftops become toys, chains become threads, the streets are empty with doors bolted under the hammering rain, and the signal tower becomes a pin with a single tiny pearl-white glow at its base, looking up. Camera: slow aerial pull-out.
 
-*Edit:* This is the last time we see the town until the coda. Only Luma witnesses his ascent. It is a private moment.
+*Edit:* This is the last time we see the town until the coda. Nobody else is around: only Luma witnesses his ascent. It is a private moment.
 
 **Shot 67: Tumbling** | 4s | Refs: @Image2
 
