@@ -8,11 +8,11 @@
 | 0:11 | He taps the battery in his hand against his knee. A spark jumps across, and the battery is nearly drained. |
 | 0:14 | His knee is charged. The leg moves smoothly and silently. |
 | 0:17 | Nimbo smiles, content. |
-| 0:20 | Nimbo walks happily through the busy city of kiosks, chains and crowds of small clouds with gadgets and electronic legs. One wears a scarf. Nobody looks up. |
+| 0:20 | Nimbo walks happily through the busy city of kiosks, chains and crowds of small clouds with gadgets and electronic legs. One wears a blue beanie. Nobody looks up. |
 | 0:25 | The title appears in electrified smoke over the city. A gust wipes it away and tugs at Nimbo, who grabs a chain. A siren begins. |
-| 0:31 | The siren. Everyone grabs a chain and holds on, including Nimbo. The scarf cloud is too far from any chain and is stranded in the open. |
-| 0:35 | A gust snaps the straps of the scarf cloud's legs and they fall off. She is swept up into the sky in terror. Everyone else holds on and watches. |
-| 0:39 | The scarf drifts down and settles over her empty legs on the ground. |
+| 0:31 | The siren. Everyone grabs a chain and holds on, including Nimbo. The beanie cloud is too far from any chain and is stranded in the open. |
+| 0:35 | A gust snaps the straps of the beanie cloud's legs and they fall off. She is swept up into the sky in terror. Everyone else holds on and watches. |
+| 0:39 | The blue beanie drifts down and settles over her empty legs on the ground. |
 | 0:42 | Nimbo grips his chain, trembling. The other clouds lower their heads in silence. |
 | 0:45 | Nimbo enters his small tinfoil apartment. |
 | 0:50 | The apartment: a bed, a small dining table, a small kitchen, a window and a treadmill. The ceiling is weak and shakes with the gusts of wind. It is both his home and his workplace. |
@@ -85,4 +85,4 @@
 | 5:22 | Luma zaps Nimbo back harder, smiles and darts away. |
 | 5:25 | Nimbo chases Luma through the sky. He bumps into a cloud and bows to it as he goes. |
 | 5:31 | They chase each other toward the glowing horizon until they are two points of light. |
-| 5:36 | Coda, over the credits: a blank stone grave with the scarf cloud's empty legs and scarf in front of it. Luma's music plays on. |
+| 5:36 | Coda, over the credits: a blank stone grave with the beanie cloud's empty legs and blue beanie in front of it. Luma's music plays on. |
